@@ -9,8 +9,7 @@ then doubleclick the PLAY.bat file.
 
 # Controlles
 ***
-   (WARNING): do not click off the tab when playing or Controlles will not work!
-   
+
    W - up
    
    S - down
