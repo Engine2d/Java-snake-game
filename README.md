@@ -7,7 +7,7 @@ To play download Snake.zip and unzip it.
 
 then doubleclick the PLAY.zip file.
 
-#Controlles
+# Controlles
 ***
    (WARNING): do not click off the tab when playing or Controlles will not work!
    
