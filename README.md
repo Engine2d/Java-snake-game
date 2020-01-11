@@ -5,7 +5,7 @@ Snake game made with JAVA!!!!!!!!!!!!!!!!!!
 ___
 To play download Snake.zip and unzip it.
 
-then doubleclick the PLAY.zip file.
+then doubleclick the PLAY.bat file.
 
 # Controlles
 ***
